@@ -222,3 +222,9 @@ val list5=listOf(
         vector = Icons.AutoMirrored.Outlined.HelpOutline
     )
 )
+val list6=listOf(
+    "Home" to Icons.Default.Home,
+    "Video Creator" to Icons.Default.VideoCameraFront,
+    "Text to Speech" to Icons.Default.TextFields,
+    "Speech to Speech" to Icons.Default.Mic
+)
