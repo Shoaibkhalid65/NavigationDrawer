@@ -48,7 +48,9 @@ https://github.com/user-attachments/assets/cdc77b99-c5b3-42ac-a93d-9761b2e5ad3f
 
 
 - **Animated Custom Drawer Demo**  
-https://github.com/user-attachments/assets/928b97dc-9db2-47f6-bdbe-a6799c597202
+
+
+[Screen_recording_20250707_004418.webm](https://github.com/user-attachments/assets/63a649eb-db72-4b65-91cb-4a44cf09ab0c)
 
 
 ---
