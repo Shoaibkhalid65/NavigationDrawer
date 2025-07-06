@@ -31,6 +31,7 @@ import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.lerp
 import androidx.compose.ui.util.lerp
+import com.example.navigationdrawer.ui.theme.DrawerContainerColor1
 import kotlinx.coroutines.launch
 
 
@@ -79,7 +80,7 @@ fun MainScreen1() {
     Box(
         Modifier
             .fillMaxSize()
-            .background(Color.White)
+            .background(DrawerContainerColor1)
     ) {
         CustomDrawer1 {
             scope.launch {
