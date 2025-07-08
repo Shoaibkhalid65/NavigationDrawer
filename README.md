@@ -65,6 +65,6 @@ https://github.com/user-attachments/assets/cdc77b99-c5b3-42ac-a93d-9761b2e5ad3f
 ## ⭐ Feedback
 
 If you found this project helpful or interesting, **please consider giving it a star** ⭐
-Your support encourages further development and exploration!
+Your support encourages further development and exploration.
 
 ---
